@@ -162,6 +162,6 @@ else if (confirmSymbol) {
 //   }else {
 //     return length;
 //   }
-}
+
 
 
